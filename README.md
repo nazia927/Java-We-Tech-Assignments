@@ -1,1 +1,1 @@
-# Java-We-Tech-Assignments
+# Java-Web-Tech-Assignments
